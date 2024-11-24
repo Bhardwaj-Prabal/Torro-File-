@@ -13,6 +13,7 @@
 - **Secure Access Control:** Files are reassembled only when requested by authorized users.
 - **Redundancy:** Distributed storage ensures data availability and resilience.
 - **Scalability:** Easily scales to handle large file sizes and increasing users.
+- **Ledger System:** Tracks and logs all file access and retrieval activities for audit and verification purposes. This provides transparency and ensures compliance with internal policies.
 
 ---
 
@@ -22,6 +23,7 @@
    ```bash
    git clone https://github.com/your-repo/torro-split.git
    cd torro-split
+   cd frontend
    ```
 
 2. **Install Dependencies:**
@@ -37,7 +39,7 @@
 
 4. **Start the System:**
    ```bash
-   npm start
+   npm run dev
    ```
 
 ---
@@ -70,12 +72,6 @@ https://github.com/user-attachments/assets/4f452cd8-4d26-485b-8820-50520de8640f
 
 ---
 
-## 📜 License
-
-[MIT License](LICENSE)
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome! Open an issue or submit a pull request to improve Torro Split.
@@ -84,8 +80,7 @@ Contributions are welcome! Open an issue or submit a pull request to improve Tor
 
 ## 📧 Contact
 
-**Maintainer:** Prabal Bhardwaj  
-**Email:** your-email@example.com  
+**Maintainer:** [Prabal Bhardwaj](https://github.com/Bhardwaj-Prabal) , [Ranbeer Malhotra](https://github.com/rnbr04) , [Abhinav Parindiyal](https://github.com/MrParindiyal)
 
 
 
